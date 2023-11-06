@@ -1,1 +1,0 @@
-## Unshielded Twisted Pair

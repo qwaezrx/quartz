@@ -1,3 +1,0 @@
-
-
-## Artificial Intelligence Generated Content

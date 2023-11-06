@@ -1,3 +1,0 @@
-
-All together
-in groups

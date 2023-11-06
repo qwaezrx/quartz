@@ -1,5 +1,0 @@
-#Mathematics 
-
-
-aka. [[Gaussian distribution]]
-

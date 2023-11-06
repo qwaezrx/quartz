@@ -1,1 +1,0 @@
-Calculates the error of single training example.

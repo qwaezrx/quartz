@@ -1,3 +1,0 @@
-
-- Superior border of [[Ilium]]
-- 
