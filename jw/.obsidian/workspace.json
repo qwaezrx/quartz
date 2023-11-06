@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "d4dd63a9fdddbbe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61892eb9b885636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b0d7dc42dd3ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Problem Solving/Publishing Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88a8814814921ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Blockchain study/Mempool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b0a28056373cdab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Blockchain study/BSC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5690cfd64b35dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Blockchain study/MEV in Ethereum PoS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e30afa4cacc526b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Blockchain study/ERC-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37d561ad62784cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Blockchain study/Salmonella Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36bd1f1cbff4201f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Blockchain study/How to build MEV bots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a71ba54eb0d0b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Blockchain study/A Simple Smart Contract (Solidity).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6edf134492cb33f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f82e7a6e945f1012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56c26e14e4f8e21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "iframe",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04b326cf3fab759d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e84bff2459621ab6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1c2ccdaecae147c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b220e1e3697c9339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b1f9d527cf33028",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Problem Solving/Publishing Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6be3bc92d1a4807b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Problem Solving/Publishing Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "983ebe06017f180f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb29b4a650dde01b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Problem Solving/Publishing Obsidian.md"
+              }
+            }
+          },
+          {
+            "id": "24f75b20acc9ae50",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbe87fb5dd62cfd9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "28d1627107d5117e",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d5b0d7dc42dd3ec8",
+  "lastOpenFiles": [
+    "Projects/Problem Solving/Copy & Paste News letters.md",
+    "Projects/Problem Solving/Publishing Obsidian.md",
+    "Resource/AI/Vision/CNN/CNN networks/Conv Classic networks.md",
+    "Projects/Blockchain study/Blockchain.md",
+    "Resource/AI/Basic/Machine Learning/KNN.md",
+    "Resource/AI/Basic/Machine Learning/SVM.md",
+    "Resource/AI/Vision/CNN/CNN.md",
+    "Resource/AI/Basic/Step by Steps/Decision tree in sklearn.md",
+    "Resource/AI/Basic/Batch normalization.md",
+    "Resource/AI/Basic/Step by Steps/Building DNN step by step in numpy.md",
+    "Resource/AI/Basic/Binary classification.md",
+    "Resource/AI/Basic/Cross Entropy Loss.md",
+    "Resource/AI/Basic/Log likelihood.md",
+    "Resource/AI/Generative AI/dVAE.md",
+    "Resource/AI/Training/PEFT.md",
+    "Resource/AI/NLP/NLP logistic regression, sentiment classification.md",
+    "Resource/AI/NLP/Negative sampling.md",
+    "Resource/AI/NLP/NLP.md",
+    "Resource/AI/NLP/Machine translation.md",
+    "Resource/AI/NLP/def data_V_generator().md",
+    "Projects/Security study/SSH.md",
+    "Projects/Blockchain study/Mempool.md",
+    "Resource/AI/Basic/Multi-label classification.md",
+    "Resource/AI/Vision/CNN/Convolutional layer.md",
+    "Resource/AI/Vision/CNN/CNN;Transfer learning.md",
+    "Resource/AI/Training/Hyperparameter tuning.md",
+    "Assets/Screenshot 2023-11-05 at 9.26.24 PM.png",
+    "Assets/Screenshot 2023-11-05 at 9.23.02 PM.png",
+    "Assets/Screenshot 2023-11-05 at 9.22.28 PM.png",
+    "Projects/Blockchain study/Keywords",
+    "Assets/Pasted image 20231101233132.png",
+    "Areas/AI study/Music Generation",
+    "Projects/Blockchain study/Ethereum",
+    "Assets/MEV_searcher_order_flow_post_merge.png",
+    "Assets/Pasted image 20231031070006.png",
+    "Assets/The_Scourge_roadmap.png",
+    "Assets/Ethereum_roadmap.png",
+    "Assets/Web3_stack.png",
+    "Assets/How_does_MEV_Work?.png",
+    "Projects/Problem Solving",
+    "Areas/Problem Solved",
+    "Projects/Crypto Quant Program",
+    "Areas/AI study/NLP/NLP; Special tokens",
+    "Areas/AI study/NLP",
+    "Areas/Programming/Python/Functions/re",
+    "Areas/Programming/Python/Functions",
+    "Resource/AI/Sequential/GRU unit (full).canvas",
+    "Projects/Coursera lectures/RNN unit.canvas",
+    "Untitled 1.canvas"
+  ]
+}

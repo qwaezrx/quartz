@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Archive  -path:Assets  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#AI/GAI  ",
+      "color": {
+        "a": 1,
+        "rgb": 12412261
+      }
+    },
+    {
+      "query": "tag:#AI  ",
+      "color": {
+        "a": 1,
+        "rgb": 15764170
+      }
+    },
+    {
+      "query": "tag:#Anatomy  ",
+      "color": {
+        "a": 1,
+        "rgb": 14002044
+      }
+    },
+    {
+      "query": "tag:#CS/Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 6990199
+      }
+    },
+    {
+      "query": "tag:#CS  ",
+      "color": {
+        "a": 1,
+        "rgb": 9156324
+      }
+    },
+    {
+      "query": "tag:#Blockchain  ",
+      "color": {
+        "a": 1,
+        "rgb": 4146685
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 0.90390625,
+  "lineSizeMultiplier": 0.82734375,
+  "collapse-forces": false,
+  "centerStrength": 0.0755208333333333,
+  "repelStrength": 3.33333333333333,
+  "linkStrength": 0.752604166666667,
+  "linkDistance": 234,
+  "scale": 0.6111421381095502,
+  "close": false
+}

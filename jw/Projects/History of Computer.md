@@ -1,0 +1,56 @@
+---
+tags:
+  - History
+  - CS
+---
+
+
+- `1848`: World's first [[Computer]] program written - by Ada Lovelace.
+- `1890`: Punch card technique used for calculation - by Herman Hollerith
+- `1936`: [[Alen Turing]] presents Turing machine
+- `1940` ~ `1955`: 1st Generation
+	- Used vacuum tubes for the circuitry
+	- Used magnetic drums for memory
+	- ENIAC
+	- UNIVAC-1
+	- EDVAC
+- `1957` ~ `1963`: 2nd Generation
+	- Used [[Transistor]]s
+	- COBOL, FORTRAN are employed as assembly languages and programming languages.
+	- `1962`:
+		- Atlas
+		- pioneered the concept of [[Virtual Memory]]
+- `1964`: Douglas Engelbart proposes modern computer prototype = Mouse + GUI
+- `1970`: Intel invents first [[DRAM]] chip
+- `1971`: IBM invents "floppy disk"
+- `1973`: [[Ethernet]] which is used to connect many computers and other gear.
+- `1974`: [[PC]]s were introduced into the market
+- `1976`: founded Apple Computer, introduced Apple I, the first computer with a single-circuit board.
+- `1977`: Apple II, with color graphics and a cassette drive for storing music.
+- `1978`: first computerized spreadsheet program, VisiCalc was introduced
+- `1983`: CD-ROM, which could carry 550MB
+- `1984`: Apple Macintosh
+- `1985`: 
+	- [[C++]] has been released
+	- Microsoft releases [[Windows]]
+		- enables multitasking via GUI
+- `1990`: Tim Berners-Lee, creates [[HTML]] and coined the term [[WorldWideWeb]]
+- `1996`: Google search engine
+- `1998`: iMac (4GB hard drive, 32MB RAM, 15-inch monitor)
+- `1999`: [[Wi-Fi]] invented, originally covering a range of up to 300 feet.
+- `2000`: [[USB]] flash drive
+- `2001`: Mac OS X
+- `2003`: first 64-bit CPU for consumer computers (AMD)
+- `2004`: Facebook
+- `2005`: Google buys [[Android]]
+- `2006`:
+	- [[AWS]],
+		 - Amazon Elastic Cloud 2 (EC2)
+		 - Amazon Simple Storage Service (S3)
+	- MacBook Pro
+- `2007`: iPhone, Kindle
+- `2010`: iPad
+
+## Reference
+- https://www.livescience.com/20718-computer-history.html
+- https://www.toppr.com/guides/computer-aptitude-and-knowledge/basics-of-computers/history-of-computers/

@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "9071595f59dc1143",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f80e999fd8ecd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54bf038dfa922eab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0404f965f2569455",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d326ad885d8b6cb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0a877fd47b3159df",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "44aeba1a4be36613",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d6b79aa421207749",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b381995ea6c99b97",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "828efac19f84dbd9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d3b4290cdef77520",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7e6e364f5cafd985",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "54bf038dfa922eab",
+  "lastOpenFiles": [
+    "Resource/AI/Basic/Neural network programming.md",
+    "Resource/AI/Basic/Computation graph.md",
+    "Resource/AI/Basic/Loss function.md",
+    "Resource/AI/Basic/Gradient descent.md",
+    "Resource/AI/Basic/Cost function.md",
+    "Resource/AI/Basic/Supervised ML.md",
+    "Projets/Cheat sheets.md",
+    "Resource/Programming/Declarative programming.md",
+    "Resource/Programming/ORM.md",
+    "Screenshot 2023-08-25 at 5.11.34 AM.png",
+    "Resource/Books/Deep Learning for Coders with Fastai and Pytorch/Introduction, Deep Learning for Coders with Fastai and PyTorch.md",
+    "IMG_79D6F15F79B9-1.jpeg",
+    "IMG_D2AC1EC01B76-1.jpeg",
+    "Resource/Programming/Python/NumPy/NumPy.md",
+    "Sigmoid.md",
+    "Resource/Human/Anatomy/Supraclavicular fossa.md",
+    "Resource/Human/Anatomy/Terminology/Transverse.md",
+    "Resource/Human/Anatomy/Terminology/Directional terms and body planes.md",
+    "Resource/Programming/Python/NumPy/NumPy broadcasting.md",
+    "Resource/Human/Anatomy/Terminology/Ulnar.md",
+    "Resource/Human/Anatomy/Terminology/Peripheral.md",
+    "Resource/Human/Anatomy/Terminology/Terminal (Anatomy).md",
+    "Resource/Human/Anatomy/Latissimus dorsi muscle.md",
+    "Resource/Human/Anatomy/Costal margin.md",
+    "Resource/Human/Anatomy/Penis.md",
+    "Resource/Human/Anatomy/Sternocleidomastoid muscle.md",
+    "Resource/Human/Anatomy/Lumbar triangle.md",
+    "Resource/Human/Anatomy/Axial body; posterior.md",
+    "Resource/Human/Anatomy/Body surface anatomy.md",
+    "Assets/Screenshot 2023-08-18 at 6.06.03 PM.png",
+    "Assets/Network/icons8-hub-50.png",
+    "Assets/Network/IPv4_datagram_header.png",
+    "Assets/Network/Screenshot 2023-08-19 at 3.05.37 AM.png",
+    "Assets/Network/icons8-router-50.png",
+    "Assets/Network/Screenshot 2023-08-19 at 8.20.44 PM.png",
+    "Assets/Network/Screenshot 2023-08-19 at 2.54.32 AM.png",
+    "Resource/Computer Science/Hardware",
+    "Resource/Computer Science/OS/Linux",
+    "Resource/Computer Science/OS",
+    "Resource/Computer Science/Network/Network Dictionary",
+    "Resource/Computer Science/Network",
+    "Resource/Programming/Python/NumPy",
+    "Resource/AI/Basic",
+    "Areas/Learning/Note Taking",
+    "Resource/Math/Linear algebra",
+    "Resource/AI/Hugging Face"
+  ]
+}

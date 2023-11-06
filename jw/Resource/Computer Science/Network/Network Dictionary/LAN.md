@@ -1,0 +1,2 @@
+## Local Area Network
+On local area network(LAN), nodes can communicate with each other through their physical [[MAC]] addresses. This works well on small scale, since [[Switch]]es can quickly learn the [[MAC]] addresses connected to each other [[Port (networking)]]s to four transmissions appropriately.

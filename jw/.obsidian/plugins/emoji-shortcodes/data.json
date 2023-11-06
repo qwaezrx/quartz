@@ -1,0 +1,24 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":broken_heart:",
+    ":balloon:",
+    ":3rd_place_medal:",
+    ":2nd_place_medal:",
+    ":1st_place_medal:",
+    ":left_right_arrow:",
+    ":hugs:",
+    ":100:",
+    ":thumbsup:",
+    ":thumbsdown:",
+    ":white_check_mark:",
+    ":heavy_check_mark:",
+    ":three:",
+    ":two:",
+    ":one:",
+    ":+1:"
+  ]
+}

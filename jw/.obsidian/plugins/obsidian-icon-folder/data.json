@@ -1,0 +1,106 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasRobot",
+      "SiNumpy",
+      "SiPandas",
+      "LiServer",
+      "RiComputerFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "Assets": "FarImages",
+  "Archive": "IbArchive",
+  "Assets/Papers": {
+    "iconName": "RiFileTextLine",
+    "inheritanceIcon": "RiFileTextLine"
+  },
+  "Projects": "FasPersonRunning",
+  "Resource": "FasDatabase",
+  "Projects/Wi-Fi.md": "FasWifi",
+  "Resource/Dictionary": "FasBook",
+  "Projects/Docker Study/Docker.md": "SiDocker",
+  "Projects/Docker Study/Kubernetes.md": "SiKubernetes",
+  "Projects/Docker Study/Linux.md": "SiLinux",
+  "Projects/Cloud study/Cloud Computing.md": "FasCloud",
+  "Projects/Learn VIM.md": "SiVim",
+  "Projects/Docker Study/GKE.md": "SiGooglecloud",
+  "Projects/Cloud study/Google Cloud.md": "SiGooglecloud",
+  "Resource/Human": "FasPerson",
+  "Resource/Programming": "FasCode",
+  "Resource/Programming/Python": {
+    "iconName": "SiPython",
+    "inheritanceIcon": "SiPython"
+  },
+  "Resource/Programming/Swift": {
+    "iconName": "SiSwift",
+    "inheritanceIcon": "SiSwift"
+  },
+  "Resource/Programming/Frontend/HTML": {
+    "iconName": "SiHtml5",
+    "inheritanceIcon": "SiHtml5"
+  },
+  "Resource/Programming/Frontend/Markdown": {
+    "iconName": "RiMarkdownFill",
+    "inheritanceIcon": "RiMarkdownFill"
+  },
+  "Resource/Programming/Frontend/React": {
+    "iconName": "SiReact",
+    "inheritanceIcon": "SiReact"
+  },
+  "Resource/Programming/Frontend/JavaScript.md": "FabJs",
+  "Resource/Programming/Frontend/CSS.md": "SiCss3",
+  "Resource/Programming/Backend/Django": {
+    "iconName": "SiDjango",
+    "inheritanceIcon": "SiDjango"
+  },
+  "Resource/AI": "FasRobot",
+  "Projects/Blockchain study": "IbRectangleWithBlocks",
+  "Projects/Blockchain study/Bitcoin.md": "FabBtc",
+  "Projects/Coursera lectures": "SiCoursera",
+  "Projects/Cloud study": "FasCloud",
+  "Projects/Docker Study": "SiDocker",
+  "Projects/Network study": "TiNetwork",
+  "Resource/Math": {
+    "iconName": "TiMath",
+    "inheritanceIcon": "TiMath"
+  },
+  "Areas/Note Taking/Obsidian.md": "SiObsidian",
+  "Areas/Python": {
+    "iconName": "SiPython",
+    "inheritanceIcon": "SiPython"
+  },
+  "Projects/Docker Study/Container.md": "SiLinuxcontainers",
+  "Resource/Computer Science/Database": "IbDatabse",
+  "Resource/Computer Science/Network": "TiNetwork",
+  "Resource/Algorithm": "SiThealgorithms",
+  "Resource/Computer Science": "RiComputerFill",
+  "Resource/Computer Science/Hardware": "LiServer",
+  "Areas/AI study": "FasRobot",
+  "Areas/AI study/Hugging face": "🤗",
+  "Areas/AI study/Hugging face/Hugging Face.md": "🤗",
+  "Areas/Python/NumPy": {
+    "iconName": "SiNumpy",
+    "inheritanceIcon": "SiNumpy"
+  },
+  "Areas/Python/NumPy/NumPy.md": "SiNumpy",
+  "Areas/Python/Pandas": "SiPandas",
+  "Resource/Computer Science/Computer.md": "RiComputerLine",
+  "Areas/Python/Pandas/Pandas.md": "SiPandas",
+  "Projects/Ideas": "IbLightBulb"
+}

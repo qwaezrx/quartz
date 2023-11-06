@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1693308191675,
+      "path": "Resource/AI/NLP/NLP sequence models/RNN/RNN.md",
+      "subpath": "#^f8ca77",
+      "title": "RNN#Keypoints"
+    },
+    {
+      "type": "folder",
+      "ctime": 1697384507339,
+      "path": "Resource/AI/Generative AI/Transformer"
+    },
+    {
+      "type": "file",
+      "ctime": 1697395324193,
+      "path": "Resource/AI/Generative AI/Transformer.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1697459462805,
+      "path": "Areas/AI study/History of Generative AI.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1697481027176,
+      "path": "Projects/Coursera lectures/Diffusion model/Diffusion Model.md"
+    }
+  ]
+}

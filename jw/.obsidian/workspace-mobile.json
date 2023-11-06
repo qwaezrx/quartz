@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "9071595f59dc1143",
+    "type": "split",
+    "children": [
+      {
+        "id": "3063dc6b6f643602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d015ed12a51e708b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0404f965f2569455",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d326ad885d8b6cb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0a877fd47b3159df",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "44aeba1a4be36613",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d6b79aa421207749",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "189fcd9f9484f526",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b381995ea6c99b97",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "828efac19f84dbd9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d3b4290cdef77520",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7e6e364f5cafd985",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d015ed12a51e708b",
+  "lastOpenFiles": [
+    "Assets/AI/Seq2Seq_Attention.png",
+    "Assets/AI/Sequential_LSTM_Attention.png",
+    "Projects/Learn VIM.md",
+    "Assets/AI/Screenshot 2023-08-20 at 12.17.06 PM.png",
+    "Assets/AI/Screenshot 2023-08-20 at 12.22.04 PM.png",
+    "Assets/AI/Screenshot 2023-08-20 at 12.20.37 PM.png",
+    "Assets/AI/Screenshot 2023-08-20 at 12.18.45 PM.png",
+    "Assets/Anatomy/Screenshot 2023-08-21 at 3.11.22 PM.png",
+    "Assets/Anatomy/Screenshot 2023-08-21 at 3.03.23 PM.png",
+    "Assets/Anatomy/Screenshot 2023-08-21 at 3.32.04 PM.png",
+    "Assets/Anatomy/Screenshot 2023-08-21 at 3.44.41 PM.png",
+    "Assets/AI/Screenshot 2023-08-29 at 11.30.04 PM.png",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.Tensor.long.md",
+    "Resource/Math/Normal Distribution.md",
+    "Resource/Math/Gaussian distribution.md",
+    "Projects/SNet Team/SingularityNet.md",
+    "Projects/SNet Team",
+    "Resource/AI/Basic/Keywords/MLP.md",
+    "Resource/AI/Libraries/PyTorch/DNN in PyTorch.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.nn.init.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.hub.load.md",
+    "Resource/AI/Libraries/PyTorch/LR in PyTorch.md",
+    "Resource/AI/Libraries/PyTorch/Torchvision/torchvision.transforms.Compose.md",
+    "Resource/AI/Libraries/PyTorch/Differentiation in PyTorch.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.nn.ModuleList.md",
+    "Resource/AI/Libraries/PyTorch/Torchvision/torchvision.datasets.ImageFolder.md",
+    "Resource/AI/Libraries/PyTorch/LR; Gradient descent in PyTorch.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.linspace.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.utils.data.Dataset.md",
+    "Resource/AI/Libraries/PyTorch/Torchvision/torchvision.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.optim.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.utils.data.DataLoader.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.stack.md",
+    "Resource/AI/Libraries/PyTorch/Torchvision/torchvision.models.md",
+    "Resource/AI/Libraries/PyTorch/Torch/torch.nn.Dropout.md",
+    "Resource/AI/Libraries/PyTorch/PyTorch.md",
+    "Resource/AI/Libraries/PyTorch/Default imports with PyTorch.md",
+    "Resource/AI/Libraries/PyTorch/Torchvision",
+    "Resource/AI/Libraries/PyTorch/Torch",
+    "Resource/AI/Libraries/PyTorch",
+    "Resource/AI/Libraries/Tensorflow",
+    "Resource/AI/Basic/Machine Learning",
+    "Resource/AI/Vision/CNN/CNN networks",
+    "Resource/AI/Vision/CNN",
+    "Resource/AI/Vision",
+    "Resource/AI/Basic/Step by Steps",
+    "Resource/AI/Sequential/GRU unit (full).canvas",
+    "Projects/Coursera lectures/RNN unit.canvas",
+    "GRU unit (full).canvas",
+    "RNN unit.canvas"
+  ]
+}

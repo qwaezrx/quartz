@@ -1,0 +1,1 @@
+The Gating network decide whether specific inputs belong to specific networks based on the nature of the expert activations generated.
