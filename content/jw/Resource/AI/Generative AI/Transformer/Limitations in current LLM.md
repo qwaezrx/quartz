@@ -1,0 +1,1 @@
+While [[LLM]]s are good at understanding and re-discovering the [[Statistical pattern]]s in the language i.e. syntax and semantics (more than they're given credit for but less than humans), they struggle with functional use of language (which requires different part of the brain) in real world such as simple computation, logical tasks etc. 

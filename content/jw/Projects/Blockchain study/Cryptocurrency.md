@@ -1,0 +1,5 @@
+---
+aliases:
+  - cryptocurrencies
+  - coin
+---
