@@ -1,3 +1,6 @@
 {
-	"cleanUrls": true
+	"cleanUrls": true,
+	"buildCommand": "npx quartz build --serve -d 'Obsidian/jw/'",
+	"installCommand": "npm install",
+	"outputDirectory": "public"
 }
